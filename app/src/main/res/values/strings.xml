@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application01</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="frag_1111">First Fragment</string>
+    <string name="frag_222444">Second Fragment</string>
+    <string name="frag_233333">Third Fragment</string>
+    <string name="button">Button</string>
+    <string name="about">About</string>
+    <string name="share">share</string>
+</resources>
